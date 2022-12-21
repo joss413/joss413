@@ -1,6 +1,5 @@
-🏄‍♂️ Hi there 👋
-
-### Hi there 👋, Yoseph Negash
+🏄‍♂️ Hi there 👋, Yoseph Negash
+   Web Developer
 
 ![Web Developer](https://imgs.search.brave.com/iP3UaqNAhFwIH1PNBHRI2bWLme8Ru2QHX3YvezDesbQ/rs:fit:1002:372:1/g:ce/aHR0cHM6Ly9mb3Jr/ZHJvcC5pby9pbWFn/ZXMvYXJ0aWNsZS9n/aXRodWItYmFubmVy/QDAsNXgucG5n)
 

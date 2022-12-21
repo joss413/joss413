@@ -1,7 +1,7 @@
 
 ![Web Developer](https://github.com/joss413/joss413/blob/main/final1_auto_x2.jpg)
 
-### 🏄‍♂️Yoseph Negash
+##🏄‍♂️Yoseph Negash
 I'm Yoseph From Ethiopia, I am web developer. I really enjoy learning languages and frameworks like React and node ,as well as work in WordPress. I also enjoy by creating a website by using Html,Css and Js.
 
 ## Skills and Experience

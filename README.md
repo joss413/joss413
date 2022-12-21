@@ -1,7 +1,7 @@
 🏄‍♂️ Hi there 👋, Yoseph Negash
    Web Developer
 
-![Web Developer](https://imgs.search.brave.com/iP3UaqNAhFwIH1PNBHRI2bWLme8Ru2QHX3YvezDesbQ/rs:fit:1002:372:1/g:ce/aHR0cHM6Ly9mb3Jr/ZHJvcC5pby9pbWFn/ZXMvYXJ0aWNsZS9n/aXRodWItYmFubmVy/QDAsNXgucG5n)
+![Web Developer](https://github.com/joss413/joss413/blob/main/photo_2022-09-30_14-23-00.jpg)
 
 I'm Yoseph From Ethiopia, I am web developer. I really enjoy learning languages and frameworks like React and node ,as well as work in WordPress. I also enjoy creating a website by Html ,CSS and Js.
 
@@ -18,7 +18,7 @@ I'm Yoseph From Ethiopia, I am web developer. I really enjoy learning languages 
 
 
 
-Skills: PHP / REACT / JS / HTML / CSS/MySQL
+Skills: PHP / REACT / JS / HTML / CSS / MySQL
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Information Technology

@@ -1,7 +1,7 @@
 
 <!--![Web Developer](https://github.com/joss413/joss413/blob/main/images.jpg) -->
 <!--<img src="https://github.com/joss413/joss413/blob/main/images1.jpg" style="width: 100%;" alt="Web Developer">-->
-<img src="https://github.com/joss413/joss413/blob/main/images1.jpg" style="width: 100%; height: 50%;" alt="Web Developer">
+<img src="https://github.com/joss413/joss413/blob/main/images1.jpg" style="width: 100%; height: 20%;" alt="Web Developer">
 
 
 

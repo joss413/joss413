@@ -1,5 +1,5 @@
 
-![Web Developer](https://github.com/joss413/joss413/blob/main/final1_auto_x2.jpg)
+![Web Developer](https://github.com/joss413/joss413/blob/main/images.jpg)
 
 ## 🏄‍♂️Yoseph Negash
 I'm Yoseph From Ethiopia, I'm a Full Stack Web Developer. I really enjoy learning languages and frameworks like React and node ,as well as work in WordPress. I also enjoy by creating a website by using Html,Css and Js.

@@ -1,4 +1,4 @@
-![Web Developer](https://github.com/joss413/joss413/blob/main/images.jpg)
+<!--![Web Developer](https://github.com/joss413/joss413/blob/main/images.jpg)-->
 <img src="https://github.com/joss413/joss413/blob/main/images1.jpg" style="width: 100%;" alt="Web Developer">
 
 

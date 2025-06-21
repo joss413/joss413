@@ -1,7 +1,4 @@
-![image](https://github.com/user-attachments/assets/a8c08b87-4e7a-4259-ab36-ef09bf367de3)
-<!--![Web Developer](https://github.com/joss413/joss413/blob/main/images.jpg) -->
-<!--<img src="https://github.com/joss413/joss413/blob/main/images1.jpg" style="width: 100%;" alt="Web Developer">-->
-<img src="https://github.com/joss413/joss413/blob/main/images2.jpg" style="width: 100%; height: 20%;" alt="Web Developer">
+
 
 
 

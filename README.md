@@ -13,7 +13,8 @@ I enjoy blending creativity with data-driven solutions, leveraging programming a
 
 - ⚛ React, Node.js, Laravel, PHP, MySQL  
 - 💻 HTML, CSS, JavaScript  
-- 🐍 Python (Data Science, Machine Learning, AI)  
+- 🐍 Python (Data Science, Machine Learning, AI)
+- 🖼️ Interactive App Development (Streamlit) 
 - 📊 Data Analysis & Visualization (Pandas, Matplotlib, Seaborn)  
 - 🤖 Machine Learning Frameworks (TensorFlow, Keras, Scikit-learn)  
 - 📈 Data Preprocessing & Modeling  

@@ -7,6 +7,8 @@ I’m Yoseph, aspiring data scientist and AI/ML enthusiast.
 
 I enjoy building impactful, data-driven solutions, from exploratory machine learning projects to early-stage AI systems. I'm actively expanding my skills in Data Science, Deep Learning, and Agentic AI through hands-on work and research.
 
+---
+
 ## ⚙️ Functional Areas
 💡 Data Analysis & Visualization
 🧠 Machine Learning & Deep Learning
@@ -24,11 +26,12 @@ Machine Learning & Deep Learning: 📚 Scikit-learn, 🔬 TensorFlow, 🧬 Keras
 
 ## GitHub Stats
 
-![joss413 github stats](https://github-readme-stats.vercel.app/api?username=joss413)
+![joss413's GitHub stats](https://github-readme-stats.vercel.app/api?username=joss413&show_icons=true&theme=default&include_all_commits=true)
+
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joss413)](https://github.com/joss413/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joss413&layout=compact&theme=default)
 
 ---
 

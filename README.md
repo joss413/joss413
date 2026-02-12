@@ -1,24 +1,24 @@
 <!--![Web Developer](https://github.com/joss413/joss413/blob/main/images.jpg)-->
-<img src="https://github.com/joss413/joss413/blob/main/2.png" style="width: 100%;" alt="Web Developer">
+<img src="https://github.com/joss413/joss413/blob/main/2.png" style="width: 100%;" alt="data scientist">
 
 # 🏄‍♂️ Yoseph Negash
 
-I’m Yoseph from Ethiopia — a passionate Full Stack Web Developer turned aspiring Data Scientist and AI enthusiast. With a strong foundation in web technologies like React, Node.js, I’ve recently expanded my skill set to dive deep into the world of Data Science, Machine Learning, and Artificial Intelligence.
+I’m Yoseph, aspiring data scientist and AI/ML enthusiast. 
 
-I enjoy blending creativity with data-driven solutions, leveraging programming and frameworks to build impactful projects — whether it’s a dynamic website or a predictive AI model.
+I enjoy building impactful, data-driven solutions, from exploratory machine learning projects to early-stage AI systems. I'm actively expanding my skills in Data Science, Deep Learning, and Agentic AI through hands-on work and research.
+
+## ⚙️ Functional Areas
+💡 Data Analysis & Visualization
+🧠 Machine Learning & Deep Learning
+🧾 Natural Language Processing (NLP) (in progress)
+🤖 Agentic & Generative AI Systems (exploratory stage)
+👨‍🏫 Teaching & Knowledge Sharing
 
 ---
 
-## Skills and Experience
-
-- ⚛ React, Node.js, Laravel, PHP, MySQL  
-- 💻 HTML, CSS, JavaScript  
-- 🐍 Python (Data Science, Machine Learning, AI)
-- 🖼️ Interactive App Development (Streamlit) 
-- 📊 Data Analysis & Visualization (Pandas, Matplotlib, Seaborn)  
-- 🤖 Machine Learning Frameworks (TensorFlow, Keras, Scikit-learn)  
-- 📈 Data Preprocessing & Modeling  
-- 📚 Currently exploring Deep Learning, Computer Vision, and Natural Language Processing
+## 🧰 Tools & Technologies
+Data & AI: 🐍 Python, 📊 Pandas, 📈 Matplotlib, 🌊 Seaborn, 📱 Streamlit
+Machine Learning & Deep Learning: 📚 Scikit-learn, 🔬 TensorFlow, 🧬 Keras
 
 ---
 

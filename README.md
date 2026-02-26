@@ -10,16 +10,23 @@ I enjoy building impactful, data-driven solutions, from exploratory machine lear
 ---
 
 ## ⚙️ Functional Areas
+
 💡 Data Analysis & Visualization
+
 🧠 Machine Learning & Deep Learning
+
 🧾 Natural Language Processing (NLP) (in progress)
+
 🤖 Agentic & Generative AI Systems (exploratory stage)
+
 👨‍🏫 Teaching & Knowledge Sharing
 
 ---
 
 ## 🧰 Tools & Technologies
+
 Data & AI: 🐍 Python, 📊 Pandas, 📈 Matplotlib, 🌊 Seaborn, 📱 Streamlit
+
 Machine Learning & Deep Learning: 📚 Scikit-learn, 🔬 TensorFlow, 🧬 Keras
 
 ---

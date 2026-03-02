@@ -1,5 +1,5 @@
 <!--![Web Developer](https://github.com/joss413/joss413/blob/main/images.jpg)-->
-<img src="https://github.com/joss413/joss413/blob/main/333.png" style="width: 100%;" alt="data scientist">
+<img src="https://github.com/joss413/joss413/blob/main/2.png" style="width: 100%;" alt="data scientist">
 
 # 🏄‍♂️ Yoseph Negash
 

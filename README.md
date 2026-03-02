@@ -32,19 +32,6 @@ Machine Learning & Deep Learning: 📚 Scikit-learn, 🔬 TensorFlow, 🧬 Keras
 ---
 
 
-## 📊 GitHub Stats
-
-![joss413's GitHub stats](https://github-readme-stats.vercel.app/api?username=joss413&show_icons=true&theme=default&include_all_commits=true&count_private=true)
-
-## 🔥 Streak Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joss413&theme=default)](https://git.io/streak-stats)
-
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joss413&layout=compact&theme=default)
----
-
 ## Additional Information
 
 - 🔭 Currently expanding my expertise by working on AI, Machine Learning, and Data Science projects.  
@@ -53,9 +40,4 @@ Machine Learning & Deep Learning: 📚 Scikit-learn, 🔬 TensorFlow, 🧬 Keras
 
 ---
 
-## Find Me Online
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/joss413)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/joss413)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yoseph-negash-8573b6251)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/20699426/jossi)

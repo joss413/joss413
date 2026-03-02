@@ -31,25 +31,14 @@ Machine Learning & Deep Learning: 📚 Scikit-learn, 🔬 TensorFlow, 🧬 Keras
 
 ---
 
-## GitHub Stats
-
-## ![joss413's GitHub stats](https://github-readme-stats.vercel.app/api?username=joss413&show_icons=true&theme=default&include_all_commits=true)
-
-
-## Top Languages
-
-## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joss413&layout=compact&theme=default)
-
-
-
 
 ## 📊 GitHub Stats
 
 ![joss413's GitHub stats](https://github-readme-stats.vercel.app/api?username=joss413&show_icons=true&theme=default&include_all_commits=true&count_private=true)
 
-## 🔥 Streak Stats (This is what's in your screenshot!)
+## 🔥 Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joss413&theme=default&date_format=M%20j%5%2C%20Y)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joss413&theme=default)](https://git.io/streak-stats)
 
 ## 💻 Most Used Languages
 

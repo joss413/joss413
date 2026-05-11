@@ -15,9 +15,9 @@ I enjoy building impactful, data-driven solutions, from exploratory machine lear
 
 🧠 Machine Learning & Deep Learning
 
-🧾 Natural Language Processing (NLP) (in progress)
+🧾 Natural Language Processing (NLP) 
 
-🤖 Agentic & Generative AI Systems (exploratory stage)
+🤖 Agentic & Generative AI Systems 
 
 👨‍🏫 Teaching & Knowledge Sharing
 
